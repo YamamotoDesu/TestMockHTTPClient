@@ -53,3 +53,8 @@ extension Mockable {
     }
 }
 ```
+
+MockHTTPClient
+```swift
+
+```
