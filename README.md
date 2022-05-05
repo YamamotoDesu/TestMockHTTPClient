@@ -23,7 +23,7 @@ JSON
 ```
 
 MockableProtocol
-```swit
+```swift
 import Foundation
 
 protocol Mockable: AnyObject {
