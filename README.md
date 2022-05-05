@@ -21,3 +21,7 @@ JSON
 
 ]
 ```
+
+MockableProtocol
+```swit
+```
